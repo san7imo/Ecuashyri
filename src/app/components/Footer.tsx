@@ -7,7 +7,7 @@ export default function Footer() {
         {/* banner inferior */}
         <div className="w-full">
           <Image
-            src="/banner-bottom.jpg"
+            src="/banner-top.png"
             alt="Ecuashyri footer"
             className="w-full h-auto object-cover"
             width={1600}
